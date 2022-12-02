@@ -19,3 +19,5 @@ Brughmans, T. (2018). Network structures and assembling code in Netlogo, Tutoria
 This tutorial provides an introduction to finding and assembling pre-existing code to quickly create complex models. It uses code and data linked to in the https://projectmercury.eu pages. We will create a Roman transport network by reusing existing code that draws on the open access ORBIS dataset (http://orbis.stanford.edu/), we will create alternative network structures by reusing existing code, and we will explore the impact these different network structures have in light of simple economic processes. This tutorial will reveal the importance of not reinventing the wheel, of searching for appropriate existing code and letting your model building be inspired by others’ previous work.
 
 See full list of documentation resources in [`documentation`](documentation/tableOfContents.md).
+
+!['screenshot'](netlogo_implementation/documentation/2022-Brughmans-001-interface.png)
